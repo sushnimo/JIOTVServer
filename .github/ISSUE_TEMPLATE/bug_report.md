@@ -29,3 +29,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+Tivimate:
+This script channels not working in tivimate, please check the issue, only loading screen.
